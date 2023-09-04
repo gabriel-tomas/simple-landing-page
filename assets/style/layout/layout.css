@@ -1,0 +1,23 @@
+.padding {
+    padding-block: 1rem .85rem;
+}
+
+.sticky-top {
+    position: sticky;
+    top: 0px;
+}
+
+.padding-inline-box {
+    padding-inline: 5vw;
+}
+
+.dp-spc-btwn {
+    display: flex;
+    justify-content: space-between;
+}
+
+/* background */
+
+.wth-bg {
+    background-color: var(--white-color);
+}

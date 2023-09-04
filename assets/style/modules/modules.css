@@ -1,0 +1,31 @@
+.h1-title {
+    font-size: var(--size-h1);
+}
+
+.h2-title {
+    font-size: var(--size-h2);
+}
+
+.paragraph {
+    font-size: var(--size-p);
+}
+
+._link-wght500 {
+    font-weight: 500;
+}
+
+.wht-color {
+    color: var(--white-color);
+}
+
+.image-container-fit img {
+    width: 100%;
+}
+
+.margin-bottom1 {
+    margin-bottom: var(--gap1);
+}
+
+.margin-top1 {
+    margin-top: var(--gap2)
+}

@@ -1,0 +1,19 @@
+.main-section-wrap {
+    background-image: url("../../images/main-bg.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+
+.main-section {
+    align-items: center;
+    height: 100%;
+}
+
+.main-section .flx-basis45 {
+    flex-basis: 40%;
+}
+
+.main-section .flx-basis55 {
+    flex-basis: 50%;
+}

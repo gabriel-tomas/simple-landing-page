@@ -1,3 +1,49 @@
 .align-txt-center {
     text-align: center;
 }
+
+.wdth-50 {
+    width: 50%;
+}
+
+/* gaps */
+
+.margin-auto {
+    margin-inline: auto;
+}
+
+.margin-top1 {
+    margin-top: var(--gap2); /* 3rem */
+}
+
+.margin-top2 {
+    margin-top: var(--gap4-big); /* 4rem */
+}
+
+.padding-top2 {
+    padding-top: var(--gap4-big) /* 4rem */
+}
+
+.margin-top3 {
+    margin-top: var(--gap3); /* 1.6rem */
+}
+
+.margin-top4 {
+    margin-top: var(--gap6-bigger);
+}
+
+.margin-bottom1 {
+    margin-bottom: var(--gap1); /* 2rem */
+}
+
+.margin-bottom2 {
+    margin-bottom: var(--gap3); /* 1.6rem */
+}
+
+.margin-bottom3 {
+    margin-bottom: var(--gap4-big); /* 4rem */
+}
+
+.margin-bottom4 {
+    margin-bottom: var(--gap5-small);
+}

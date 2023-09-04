@@ -1,5 +1,9 @@
 :root {
     --gap1: 2rem;
     --gap2: 3rem;
-    --page: 5rem;
+    --gap3: 1.6rem;
+    --gap4-big: 4rem;
+    --gap5-small: 1rem;
+    --gap6-bigger: 5rem;
+    --page-padding: 5rem;
 }

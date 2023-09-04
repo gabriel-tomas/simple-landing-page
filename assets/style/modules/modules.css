@@ -1,3 +1,4 @@
+/* font-sizes */
 .h1-title {
     font-size: var(--size-h1);
 }
@@ -10,9 +11,13 @@
     font-size: var(--size-p);
 }
 
+/* weight */
+
 ._link-wght500 {
     font-weight: 500;
 }
+
+/* color */
 
 .wht-color {
     color: var(--white-color);
@@ -22,10 +27,11 @@
     width: 100%;
 }
 
-.margin-bottom1 {
-    margin-bottom: var(--gap1);
+.flx-row {
+    display: flex;
+    align-items: center;
 }
 
-.margin-top1 {
-    margin-top: var(--gap2)
+.gap1 {
+    gap: var(--gap3);
 }

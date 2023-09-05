@@ -10,15 +10,18 @@
 
 @import url("base/fonts.css");
 
+
 /* reusable layout */
 
 @import url("layout/layout.css");
+
 
 /* reusable modules */
 
 @import url("modules/modules.css");
 
 @import url("modules/modules1.css");
+
 
 /* header */
 
@@ -29,6 +32,7 @@
 @import url("modules/header/nav.css");
 
 @import url("modules/header/nav/link.css");
+
 
 /* main-section */
 
@@ -49,3 +53,13 @@
 @import url("modules/top3-section/h2-title-count.css");
 
 @import url("modules/top3-section/h2-title.css");
+
+
+/* gallery section */
+
+@import url("modules/gallery/container-images.css");
+
+
+/* states */
+
+@import url("state/state.css");

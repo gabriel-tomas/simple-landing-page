@@ -34,6 +34,11 @@
     justify-content: center;
 }
 
+.section-content-max-width {
+    max-width: 120rem;
+}
+
+
 /* background */
 
 .wth-bg {

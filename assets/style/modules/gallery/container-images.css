@@ -1,0 +1,16 @@
+.gallery .container-images {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--gap7);
+}
+
+.container-images > div {
+    width: 31%;
+    overflow: hidden;
+    z-index: 0;
+    max-height: 350px;
+}
+
+.container-images > div > img {
+    transition: transform .4s;
+}

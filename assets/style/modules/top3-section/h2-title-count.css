@@ -1,0 +1,9 @@
+.top3-section.top3-section .h2-title::before {
+    counter-increment: top3;
+    content: counter(top3) "   " ;
+    font-size: var(--size-h1);
+    transform: rotate(6deg);
+    position: absolute;
+    left: -45px;
+    bottom: -5px;
+}

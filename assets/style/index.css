@@ -45,3 +45,7 @@
 /* top3-section */
 
 @import url("layout/top3-section.css");
+
+@import url("modules/top3-section/h2-title-count.css");
+
+@import url("modules/top3-section/h2-title.css");

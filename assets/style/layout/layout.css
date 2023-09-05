@@ -1,3 +1,15 @@
+.hght-90 {
+    height: 90vh;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.align-items-left {
+    align-items: left;
+}
+
 .padding {
     padding-block: 1rem .85rem;
 }
@@ -14,6 +26,12 @@
 .dp-spc-btwn {
     display: flex;
     justify-content: space-between;
+}
+
+.dp-jstfy-center-flx-clmn {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 /* background */

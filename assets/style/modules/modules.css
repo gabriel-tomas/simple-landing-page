@@ -35,3 +35,7 @@
 .gap1 {
     gap: var(--gap3);
 }
+
+.box-position-relative {
+    position: relative;
+}

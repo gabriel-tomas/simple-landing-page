@@ -2,3 +2,7 @@
     padding-inline: var(--page-padding);
     counter-reset: top3;
 }
+
+.top3-section > .header-content {
+    width: 100%;
+}

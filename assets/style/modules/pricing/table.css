@@ -1,0 +1,22 @@
+.table-pricing {
+    border-collapse: collapse;
+}
+
+.header-line {
+    background-color: var(--light-gray-color);
+}
+
+.table-pricing > caption {
+    text-align: left;
+    font-style: italic;
+    margin-bottom: .5rem;
+}
+
+.table-pricing td, .table-pricing th {
+    border: 1px solid var(--light-gray-color);
+    padding: 10px 1.5rem;
+}
+
+.table-pricing .space-right {
+    padding-right: 6rem;
+}

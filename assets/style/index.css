@@ -65,6 +65,18 @@
 @import url("modules/pricing/table.css");
 
 
+/* contact */
+
+@import url("layout/contact-section.css");
+
+@import url("modules/contact/form-contact.css");
+
+
+/* footer */
+
+@import url("layout/footer.css");
+
+
 /* states */
 
 @import url("state/state.css");

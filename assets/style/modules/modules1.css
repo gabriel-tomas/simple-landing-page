@@ -30,6 +30,10 @@
     margin-top: var(--gap3); /* 1.6rem */
 }
 
+.padding-top3 {
+    padding-top: var(--gap3) 
+}
+
 .margin-top4 {
     margin-top: var(--gap6-bigger); /* 5rem */
 }
@@ -53,11 +57,19 @@
     margin-bottom: var(--gap4-big); /* 4rem */
 }
 
+.padding-bottom3 {
+    padding-bottom: var(--gap4-big);
+}
+
 .margin-bottom4 {
     margin-bottom: var(--gap5-small); /* 1rem */
 }
 
 .margin-bottom5 {
     margin-bottom: var(--gap6-bigger); /* 5rem */
+}
+
+.padding-bottom5 {
+    padding-bottom: var(--gap6-bigger);
 }
 

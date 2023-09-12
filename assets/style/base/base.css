@@ -23,3 +23,9 @@ fieldset {
 input, textarea {
     outline: none;
 }
+
+button {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}

@@ -22,3 +22,8 @@
 @import url("layout/main-section.css");
 
 @import url("modules/main-section/image-container.css");
+
+
+/* intro-section */
+
+@import url("modules/intro-section/paragraphs.css");
